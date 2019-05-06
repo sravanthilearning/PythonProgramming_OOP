@@ -1,6 +1,6 @@
 # This is the first lesson in learning Python OOP concepts
-# ctrl + / (For writing comments)
-# ctrl + Shift + D - For duplicate lines
+# ctrl + / (For writing comments) in Sublime
+# ctrl + Shift + D - For duplicate lines in Sublime
 
 class Student:
 
