@@ -1,0 +1,17 @@
+# This is the first lesson in learning Python OOP concepts
+# ctrl + / (For writing comments)
+# ctrl + Shift + D - For duplicate lines
+
+class Student:
+
+	def __init__(self, name, grade, age):
+		self.name= name
+		self.grade= grade
+		self.age = age
+
+kitty = Student('kitty', 93, 22)
+pradeep = Student('munna', 95, 37)
+
+
+print(kitty.name, kitty.age)
+print(pradeep.name, pradeep.age)
